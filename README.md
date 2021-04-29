@@ -1,2 +1,4 @@
 # RFSiggen
 Project Repository for Texas A&amp;M University ECEN 404 Team 19 Radio Frequency Signal Generator.
+
+The purpose of this project is to design a precision radio frequency signal generator that produces a frequency stable signal. The signal generator will have a user defined frequency between 1-500Mhz with 1Hz resolution and spectral purity less than -30dBc for all spurious outputs. The amplitude will be controllable +/- 1dB in 1dB steps from +10dBm to -100dBm. Typical RF signal generators range in cost from a few hundred dollars upwards to $3000. The aim for this project is to develop a RF signal generator that would cost around $200. Achieving a reliable RF signal generator at a lower cost will increase accessibility for students and enthusiasts would are interested in RF circuit design. 
